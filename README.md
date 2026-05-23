@@ -7,7 +7,7 @@ A hands-on cybersecurity homelab simulating real-world attack techniques on both
 ## 📋 Table of Contents
 
 - [Project Report](#-project-report)
-- [Lab Environment](#-lab-environment)
+- [Lab Environment](#lab-environment)
 - [Target 1 — Linux (robertserver)](#-target-1--linux-robertserver)
   - [Reverse Shell](#1-reverse-shell-netcat)
   - [Cron Job Persistence](#2-cron-job-persistence)
@@ -69,7 +69,7 @@ This lab demonstrates a practical, end-to-end threat detection workflow — from
 
 ---
 
-## 🖥️ Lab Environment
+##  Lab Environment
 
 The lab runs entirely in **Oracle VirtualBox** with three virtual machines:
 
