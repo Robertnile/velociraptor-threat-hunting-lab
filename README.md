@@ -24,7 +24,7 @@ A hands-on cybersecurity homelab simulating real-world attack techniques on both
   - [PowerShell Script Block Logging](#5-powershell-script-block-logging)
 - [Remediation Summary](#remediation-summary)
 - [Folder Structure](#-folder-structure)
-- [Tools Used](#-tools-used)
+- [Tools Used](#tools-used)
 
 ---
 
