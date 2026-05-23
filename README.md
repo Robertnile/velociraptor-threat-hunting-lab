@@ -22,7 +22,7 @@ A hands-on cybersecurity homelab simulating real-world attack techniques on both
   - [Registry Run Key Persistence](#3-registry-run-key-persistence-hkcu--hklm)
   - [Suspicious File Drop](#4-suspicious-file-drop)
   - [PowerShell Script Block Logging](#5-powershell-script-block-logging)
-- [Remediation Summary](#-remediation-summary)
+- [Remediation Summary](#remediation-summary)
 - [Folder Structure](#-folder-structure)
 - [Tools Used](#-tools-used)
 
@@ -384,7 +384,7 @@ Malicious files are planted in `C:\Temp\malware\` to simulate a dropped payload 
 
 ---
 
-## 🛡️ Remediation Summary
+##  Remediation Summary
 
 ### Linux Remediations
 
