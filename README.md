@@ -487,7 +487,7 @@ velociraptor-lab/
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
