@@ -1,13 +1,13 @@
 # 🦖 Velociraptor Threat Hunting & Incident Response Lab
 
-![Velociraptor](https://img.shields.io/badge/Velociraptor-DFIR-1D9E75?style=flat-square&logo=v&logoColor=white)
-![VQL](https://img.shields.io/badge/VQL-Custom%20Artifacts-0F6E56?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Attacker-2879d0?style=flat-square&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_11-Target-0078D4?style=flat-square&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Homelab-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-11%20Techniques-red?style=flat-square)
-![License](https://img.shields.io/badge/Purpose-Educational-gray?style=flat-square)
+[![Velociraptor](https://img.shields.io/badge/Velociraptor-DFIR-1D9E75?style=flat-square&logo=v&logoColor=white)](https://docs.velociraptor.app/)
+[![VQL](https://img.shields.io/badge/VQL-Custom%20Artifacts-0F6E56?style=flat-square)](https://docs.velociraptor.app/vql_reference/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Attacker-2879d0?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows_11-Target-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-Homelab-183A61?style=flat-square&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-11%20Techniques-red?style=flat-square)](https://attack.mitre.org/)
+[![License](https://img.shields.io/badge/Purpose-Educational-gray?style=flat-square)](https://github.com/Robertnile/velociraptor-threat-hunting-lab)
 
 A hands-on cybersecurity homelab simulating real-world attack techniques on both **Linux and Windows** targets, and detecting them using **Velociraptor DFIR** with custom and built-in VQL artifacts.
 
