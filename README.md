@@ -1,5 +1,14 @@
 # 🦖 Velociraptor Threat Hunting & Incident Response Lab
 
+![Velociraptor](https://img.shields.io/badge/Velociraptor-DFIR-1D9E75?style=flat-square&logo=v&logoColor=white)
+![VQL](https://img.shields.io/badge/VQL-Custom%20Artifacts-0F6E56?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Attacker-2879d0?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-Target-0078D4?style=flat-square&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Homelab-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-11%20Techniques-red?style=flat-square)
+![License](https://img.shields.io/badge/Purpose-Educational-gray?style=flat-square)
+
 A hands-on cybersecurity homelab simulating real-world attack techniques on both **Linux and Windows** targets, and detecting them using **Velociraptor DFIR** with custom and built-in VQL artifacts.
 
 ---
