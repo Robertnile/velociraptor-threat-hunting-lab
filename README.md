@@ -23,7 +23,8 @@ A hands-on cybersecurity homelab simulating real-world attack techniques on both
   - [Suspicious File Drop](#4-suspicious-file-drop)
   - [PowerShell Script Block Logging](#5-powershell-script-block-logging)
 - [Remediation Summary](#remediation-summary)
-- - [Lessons Learned](#lessons-learned)
+- [Lessons Learned](#lessons-learned)
+- [Skills Demonstrated](#skills-demonstrated)
 - [Folder Structure](#-folder-structure)
 - [Tools Used](#tools-used)
 
@@ -455,6 +456,39 @@ Malicious files are planted in `C:\Temp\malware\` to simulate a dropped payload 
 - Documenting everything as I went along helped me understand the full story
   of each attack and I believe this is a skill that will be very valuable
   as a SOC analyst or incident responder.
+
+  ##  Skills Demonstrated
+
+### Offensive Security
+- Setting up and executing a reverse shell using Netcat on a Linux target
+- Creating cron job and systemd service persistence on Linux
+- Deploying stealthy persistence by disguising malicious services with
+  legitimate-sounding names
+- Planting hidden malicious files in concealed directories
+- Conducting SSH brute force attacks from Kali Linux
+- Simulating Windows attacks including scheduled task persistence,
+  registry run key persistence, suspicious file drops and encoded
+  PowerShell execution
+
+### Defensive Security & Threat Hunting
+- Deploying and configuring Velociraptor across multiple endpoints
+- Writing custom VQL artifacts to detect Linux-specific attack techniques
+  not covered by default Velociraptor artifacts
+- Using built-in Velociraptor artifacts to hunt for Windows persistence
+  and suspicious activity
+- Detecting active reverse shells through process and network analysis
+- Identifying brute force attacks through log analysis on both Linux
+  and Windows
+- Hunting for hidden files and suspicious registry keys using Velociraptor
+- Enabling and leveraging PowerShell Script Block Logging to capture
+  and decode obfuscated commands
+
+### Incident Response
+- Investigating and confirming each attack technique end to end
+- Performing remediation steps for every attack simulated
+- Verifying that remediations were successful and threats fully removed
+- Documenting the full investigation from attack through to remediation
+
 
 ## 📁 Folder Structure
 
